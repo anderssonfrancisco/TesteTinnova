@@ -17,4 +17,4 @@ Com a classe Multiplos criada, foi declarado um método publico int em seguida c
 #
 
 ### 5) Cadastro de Veiculos.
-Esse exercicio não foi feito, pois não possuo skills suficientes para desenvolve-lo.
+Esse exercicio não foi feito, pois não possuo skills suficientes para desenvolve-lo por completo.
