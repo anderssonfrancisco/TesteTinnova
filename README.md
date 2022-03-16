@@ -5,7 +5,7 @@ Após ter criado a classe CalculoDeVotos iniciei declarando os atributos como pr
 #
 
 ### 2) Algoritimo de ordenação Bubble Sort.
-Com a classe CalculoFatorial criada, foi declarado um metodo publico em seguida criada uma variavel int chamada fator e inicializada com 1, depois usei um laço for para fazer fazer o calculo do fatorial de 3, após o calculo feito é retornado o fator onde é mostrado é mostrado na classe principal Fatorial usando a variavel inteira "result". 
+Após criada a classe BubbleSort foi criado o método public list em seguida criado a ArrayList, depois uma variavel int com o nome cont recebendo a lista, também foi criado um do-while com um for contendo dois if dentro dele, no segundo if fiz o uso da API Collections, ja na classe Resultado a list recebe os numeros por parametro e depois é mostrado o resultado final.
 #
 
 ### 3) Fatorial.
